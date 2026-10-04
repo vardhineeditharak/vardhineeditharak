@@ -27,11 +27,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vardhineeditharak/vardhineeditharak/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
-
-<img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="gray">
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
