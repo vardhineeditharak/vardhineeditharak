@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Tharak 👋</h1>
 <h3 align="center">CS Undergrad · AI-Assisted Developer · Builder</h3>
-<h3 align="center">Vibe coding my way through ideas 🤖💻</h3>
+<h3 align="center">Coding my way through ideas 🤖💻</h3>
 
 ---
 
@@ -18,8 +18,6 @@
 * 🚀 Currently building **AI tools, full-stack apps & distributed systems**
 * 🌐 Portfolio: [Coming Soon]
 * ⚡ Fun fact: I like building projects just to understand how things work
-
----
 
 <div align="center">
 
